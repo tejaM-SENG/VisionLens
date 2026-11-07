@@ -24,30 +24,13 @@ The website uses a dark color palette with gold accents to create a sophisticate
 - CSS3
 - Bootstrap 5
 
-## 📸 Screenshots
-
-Add screenshots of your website here.
-
-```text
-screenshots/
-├── homepage.png
-├── gallery.png
-├── about.png
-└── contact.png
-```
-
-Example:
-
-```markdown
-![VisionLens Homepage](screenshots/homepage.png)
-```
 
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/tejaM-SENG/VisionLens
 ```
 
 ### 2. Navigate to the Project
@@ -72,11 +55,11 @@ You can also use the **Live Server** extension in Visual Studio Code for local d
 
 ## 🌐 Live Demo
 
-[View Live Website](YOUR_LIVE_DEMO_URL)
+https://tejam-seng.github.io/VisionLens/
 
 ## 💻 Source Code
 
-[View GitHub Repository](YOUR_GITHUB_REPOSITORY_URL)
+https://github.com/tejaM-SENG/VisionLens/
 
 ## 👨‍💻 Developer
 
