@@ -1814,8 +1814,8 @@ iframe {
 }
 
 /* Footer */
-footer {
-    padding: 35px 18px;
+footer p{
+    margin-bottom: 0;
 }
 
 footer p,
